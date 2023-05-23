@@ -1,2 +1,2 @@
 Hello 
-heeee....... This is DB file
+This is DB file
