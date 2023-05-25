@@ -1,0 +1,2 @@
+df -Ph
+uname -a
